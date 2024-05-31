@@ -4,16 +4,16 @@ This project demonstrates how to control two servo motors using a Raspberry Pi a
 
 ## Project Structure
 
-project/
-│
-├── servo_class.py
 ### Contains the Servo class for controlling a servo motor
-├── serial_class.py 
+├── servo_class.py
 ### Contains the SerialClass for handling serial communication
-├── main.py 
+├── serial_class.py 
 ### Main script to run the project
-└── README.md
+├── main.py 
+
+
 ### Project documentation
+└── README.md
 
 
 ## Requirements
