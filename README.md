@@ -51,4 +51,3 @@ This project demonstrates how to control two servo motors using a Raspberry Pi a
 ### License
 This project is licensed under the MIT License.
 
-    def cleanup(self):
